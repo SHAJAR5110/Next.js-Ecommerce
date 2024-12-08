@@ -1,3 +1,15 @@
+Read this before clone.!!
+Next.js ecommerce website using tailwind CSS. The Website fully responsive and have a About section and All product section also shopping cart. The about and All product section navigate through the footer and shopping cart through the head section.
+
+for git clone:
+git clone https://github.com/SHAJAR5110/Next.js-Ecommerce
+Navigate to the project folder:
+cd ecommerce
+Install dependencies:
+npm install
+Run the development server:
+npm run dev
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
