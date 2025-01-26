@@ -21,7 +21,7 @@ export default function Home() {
     The furniture brand for the 
     future, with timeless designs
     </h1>
-    <Link href='/Productist'>
+    <Link href='/Productlist'>
     <Button className='!bg-white/20 text-white rounded-none p-6 mt-8 w-[30%] tablet-max:w-[100%] tablet-max:hidden'>View Collection</Button>
     
     </Link>
@@ -103,7 +103,7 @@ export default function Home() {
       </div>
     </div>
     {/* Button div */}
-    <Link className='!bg-black/10 text-[#2a254b] text-center rounded-none mx-auto p-6 mt-8 w-[20%] tablet-max:w-full' href='/Productist'>
+    <Link className='!bg-black/10 text-[#2a254b] text-center rounded-none mx-auto p-6 mt-8 w-[20%] tablet-max:w-full' href='/Productlist'>
     View Collection
     </Link>
 
@@ -135,7 +135,7 @@ export default function Home() {
 
     </div>
     {/* Button div */}
-    <Link className='!bg-black/10 text-[#2a254b] text-center rounded-none mx-auto p-6 mt-8 w-[20%] tablet-max:w-full' href='/Productist'>
+    <Link className='!bg-black/10 text-[#2a254b] text-center rounded-none mx-auto p-6 mt-8 w-[20%] tablet-max:w-full' href='/Productlist'>
     View Collection
     </Link>
     

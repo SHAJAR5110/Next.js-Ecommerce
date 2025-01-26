@@ -110,7 +110,7 @@ function page() {
       </div>
     </div>
     {/* Button div */}
-    <Link className='!bg-black/10 text-[#2a254b] text-center rounded-none mx-auto p-6 mt-8 w-[20%] tablet-max:w-full' href='/Productist'>
+    <Link className='!bg-black/10 text-[#2a254b] text-center rounded-none mx-auto p-6 mt-8 w-[20%] tablet-max:w-full' href='/Productlist'>
     View Collection
     </Link>
 
